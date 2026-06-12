@@ -1,5 +1,4 @@
 # Simple To-Do List Manager
-
 def show_tasks():
     try:
         with open("tasks.txt", "r") as file:
